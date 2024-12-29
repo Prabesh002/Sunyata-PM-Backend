@@ -1,0 +1,6 @@
+@Sunyata_PM_Backend_HostAddress = http://localhost:5262
+
+GET {{Sunyata_PM_Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
